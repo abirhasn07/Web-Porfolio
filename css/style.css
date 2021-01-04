@@ -1,0 +1,17 @@
+body{font-family: 'Poppins', sans-serif;}
+
+
+
+
+
+
+.container{width: 100%;
+}
+.div-1{width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;}
+.div-1 img{width: 100%;}
+
+
+.name_highlight{color: orange;}
