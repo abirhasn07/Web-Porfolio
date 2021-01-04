@@ -115,10 +115,13 @@ body {
     height: 240px;
 }
 
-#full_stack{border-left: 7px solid;
-    border-image:linear-gradient(lightsalmon,tomato);
-}
+#full_stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
+    }
 
 #baby_step{border-left: 7px solid;
     border-image:linear-gradient(lightsalmon,tomato);
+    border-image-slice: 1;
 }
